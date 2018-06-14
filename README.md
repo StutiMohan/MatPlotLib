@@ -1,7 +1,5 @@
 # MatPlotLib
 Graphing and plotting
-# MatPlotLib
-Graphing and plotting
 There are 2 mini projects : - 
       A. PyberRideSharing - 
               (i) PyberRideSharing.ipynb	(Code)
@@ -21,4 +19,10 @@ In analysis of PyberRideSharing following was done:-
      b. The number of drivers were more in Urban areas.
      c. There were lesser number or rides hence the number of drivers were less than Urban and Sub - urban in rural areas 
      d. Average fare in Rural areas was less than Urban and Sub - urban in rural areas 
-          Analysis by plotting Pie Charts
+          Analysis by plotting Pie Charts was done 
+          
+     
+     
+
+     
+
